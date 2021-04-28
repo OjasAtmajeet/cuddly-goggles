@@ -1,0 +1,45 @@
+body {
+    background-color:#F3F3F3;
+}
+h1 {
+    color: #DB364E;
+    background-color: #922533;
+    height: 50px;
+    text-align: center;
+    font-family: Verdana;
+}
+
+h2 {
+    color: #DB364E;
+    background-color: #922533;
+    height: 60px;
+    width: 225px;
+    text-align: left;
+    font-family: Verdana;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+p {
+    color: #3C1874;
+    text-align: left;
+    width: 400px;
+    font-family:Verdana;
+}
+
+a {
+    color: #3C1874;
+    text-align: left;
+    font-family: Verdana;
+}
+h3 {
+    text-align: left;
+    color: #DB364E;
+    font-family: Verdana;
+}
+hr {
+    border-width: 10px;
+}
